@@ -1,7 +1,7 @@
 ♥️ Sobre mim
 
 💡 &nbsp;Gosto de explorar novas tecnologias web e soluções em software.\
-🌱 &nbsp;Me chamo joão e tenho 19 anos, recomecei desde cedo na programação e acabei me apaixonando.
+🌱 &nbsp;Me chamo joão e tenho 19 anos, Comecei desde cedo na programação e acabei me apaixonando.
 
 ⌚ Conhecimentos
 
@@ -25,7 +25,8 @@
 <div>
  <h6>Contato</h6>
   
- <img alt="facebook" hrf="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+ <img alt="Facebook" hrf="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+ <img alt="Discord" hrf="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
  
 </div>
 
